@@ -1,0 +1,3 @@
+../Core/Src/telemetry.c:10:10:Calculate_CRC	4
+../Core/Src/telemetry.c:27:6:SendTelemetryUART	1
+../Core/Src/telemetry.c:38:6:SendTelemetryCAN	2

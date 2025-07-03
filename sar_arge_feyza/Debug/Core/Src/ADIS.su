@@ -1,0 +1,3 @@
+../Core/Src/ADIS.c:12:10:ADIS_ReadReg16	24	static
+../Core/Src/ADIS.c:35:6:Read_IMU	40	static
+../Core/Src/ADIS.c:53:7:Read_Temperature	24	static
